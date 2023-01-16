@@ -1,7 +1,1 @@
-{
-    "id": 4,
-    "name": "Kinkaku-ji",
-    "url": "https://fluttercrashcourse.global.ssl.fastly.net/course_assets/kinkaku-ji@3x.jpg",
-    "user_itinerary_summary": "Day 2: 9AM - 11:30AM",
-    "tour_package_name": "Premium Package"
-  }
+{"id":4,"name":"Kinkaku-ji","url":"https://fluttercrashcourse.global.ssl.fastly.net/course_assets/kinkaku-ji@3x.jpg","user_itinerary_summary":"Day 2: 9AM - 11:30AM","tour_package_name":"Premium Package","facts":[{"title":"Summary","text":"Kinkaku-ji, officially named Rokuon-ji, is a Zen Buddhist temple in Kyoto, Japan. It is one of the most popular buildings in Japan, attracting a large number of visitors annually."},{"title":"Did You Know","text":"The Golden Pavilion is set in a magnificent Japanese strolling garden."}]}

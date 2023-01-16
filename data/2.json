@@ -1,7 +1,1 @@
-{
-    "id": 2,
-    "name": "Arashiyama Bamboo Grove",
-    "url": "https://fluttercrashcourse.global.ssl.fastly.net/course_assets/arashiyama@3x.jpg",
-    "user_itinerary_summary": "Day 1: 2PM - 3:30PM",
-    "tour_package_name": "Standard Package"
-  }
+{"id":2,"name":"Arashiyama Bamboo Grove","url":"https://fluttercrashcourse.global.ssl.fastly.net/course_assets/arashiyama@3x.jpg","user_itinerary_summary":"Day 1: 2PM - 3:30PM","tour_package_name":"Standard Package","facts":[{"title":"Summary","text":"While we could go on about the ethereal glow and seemingly endless heights of this bamboo grove on the outskirts of Kyoto, the sight\"s pleasures extend beyond the visual realm."},{"title":"How to Get There","text":"Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports."}]}
